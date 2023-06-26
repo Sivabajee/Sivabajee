@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivabajee
-- 👀 I’m currently pursuing masters in computer science in northwest missouri state university
-- 🌱 I’m currently learning webapps 
+- 👀 I’m currently pursuing masters in computer science at northwest missouri state university
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on  java projects 
 - 📫 How to reach me , reach me through S number S554043
 
